@@ -1663,7 +1663,7 @@ main {
     opacity: 0.5;
   }
 
-  .s2, .s4, .s8 {
+  .s2, .s4, .s5, .s8 {
     display: none;
   }
 
